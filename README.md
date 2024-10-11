@@ -32,7 +32,7 @@
   <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 </p>
 
-## Spotify Playing
+### My Spotify
 <p align="center">
 <!-- <a href="https://open.spotify.com"> --><img src="https://github.com/kodiltensei/kodiltensei/blob/main/sptfy.jpg">
 </p>
