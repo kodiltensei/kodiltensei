@@ -3,9 +3,6 @@
   <img src="https://profile-counter.glitch.me/kodiltensei/count.svg" />
 </p>
 <p align="center">
-  <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
-</p>
-<p align="center">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif"> 
@@ -31,6 +28,9 @@
   
 ![My card name](https://cardivo.vercel.app/api?name=kodilTensei&description=Good%20Luck!,%20&image=https://i.ibb.co.com/bv95Z1W/d3751f7b-3ba4-4181-82a4-8bacb6aa4db6.jpg)
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
+</p>
 <p align="center">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
