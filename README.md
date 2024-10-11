@@ -31,6 +31,9 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 </p>
+### Spotify Playing
+<p align="right"> a href="https://www.last.fm/user/kodiltensei" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=kodiltensei&width=400" alt="Spotify-Recent" /></a>
+</p>
 <p align="center">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
  <img width="8%" src="https://user-images.githubusercontent.com/74690464/141610642-84e8cdc7-76a0-4282-a4bd-d113e97fe29b.gif">
