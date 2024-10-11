@@ -31,10 +31,10 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 </p>
-### _Spotify Playing_
 
+## Spotify Playing
 <p align="center">
-<!-- <a href="https://open.spotify.com"> --><img src="https://github.com/kodiltensei/kodiltensei/blob/main/sptfy.jpg"> alt="Spotify Profile"/>
+<!-- <a href="https://open.spotify.com"> --><img src="https://github.com/kodiltensei/kodiltensei/blob/main/sptfy.jpg">
 </p>
 
 <p align="center">
