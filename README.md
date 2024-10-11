@@ -1,5 +1,5 @@
 <p align="center"> 
-  Req<br>
+  Visitor<br>
   <img src="https://profile-counter.glitch.me/kodiltensei/count.svg" />
 </p>
 <p align="center">
