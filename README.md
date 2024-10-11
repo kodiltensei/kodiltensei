@@ -33,9 +33,8 @@
 </p>
 ### _Spotify Playing_
 
-<p align="right">
+<p align="center">
 <a href="https://open.spotify.com"> <img src="https://github.com/kodiltensei/kodiltensei/blob/main/sptfy.jpg"> alt="Spotify Profile"/>
-</a>
 </p>
 
 <p align="center">
